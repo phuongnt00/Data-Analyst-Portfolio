@@ -15,7 +15,9 @@ The project leverages SQL Server for data processing and Power BI for intuitive 
 - **Interactive Visualizations with Power BI:** Visualize and interact with the cohort analysis results using Power BI for meaningful insights.
 
 ## Project
-Configure SQL Server using the provided scripts in [here](https://github.com/phuongnt00/Data-Analyst-Portfolio/blob/main/Online%20Retail%20Cohort%20Analysis/Online%20Retail.sql) and explore the Power BI reports in the [file](https://github.com/phuongnt00/Data-Analyst-Portfolio/blob/main/Online%20Retail%20Cohort%20Analysis/Online%20Retail%20Cohort%20Analysis.pbix) directory to gain a comprehensive understanding of the cohort analysis results.
+Configure SQL Server using the provided scripts in [here](https://github.com/phuongnt00/Data-Analyst-Portfolio/blob/main/Online%20Retail%20Cohort%20Analysis/Online%20Retail.sql). The scripts use a combination of basic and advanced SQL functions to perform data cleaning, calculate cohort retention rates and sales, and finally present the results in a pivoted format for easier analysis.
+
+Explore the Power BI reports in the [file](https://github.com/phuongnt00/Data-Analyst-Portfolio/blob/main/Online%20Retail%20Cohort%20Analysis/Online%20Retail%20Cohort%20Analysis.pbix) directory to gain a comprehensive understanding of the cohort analysis results.
 
 ### Power BI Visualization Preview
 ![image](https://github.com/phuongnt00/Data-Analyst-Portfolio/assets/134161283/fe7888ef-128e-41d1-948e-f96f29fd7c97)
@@ -35,3 +37,15 @@ Download dataset [here](https://github.com/phuongnt00/Data-Analyst-Portfolio/blo
 - CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 - Country: Country name. Nominal, the name of the country where each customer resides.
 
+## Result
+- Customer retention rate tends to decrease over time. Customers who made purchases in December 2010 had a higher repurchase rate than those who made purchases in subsequent months. In particular, the retention rate in December 2011 was below 10%.
+- The new customer acquisition is declining. In the first month, the new customer acquisition was 885 customers, but by the 12th month, it had fallen to 41 customers.
+## Conclusion
+- The number of new customers is decreasing over time. This shows that company is struggling to attract new customers.
+- December 2011 was a concerning month for the company. Both the customer retention rate and the number of new customers decreased significantly. This indicates that the business is facing some serious issue.
+- During 2011, the company's competitors may have released new, better products or services. This may cause customers to switch to purchasing from competitors.
+## Recommendation
+- Conduct market research and customer surveys to better understand customer needs and the causes of the decline.
+- Analyze customer data to identify specific customer groups that are experiencing problems with retention and acquisition.
+- Conduct customer surveys to better understand why customers do not continue to make purchases.
+- Build an effective marketing strategy to reach lead customers.
