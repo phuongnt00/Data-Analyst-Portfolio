@@ -7,10 +7,11 @@ MODIFY COLUMN time TIME;
 -- What days and times do we tend to be most engrossed?
 SELECT 
 	DAYNAME(date) AS weekday_name,
-    COUNT(*) AS order_per_weekday
+	COUNT(*) AS order_per_weekday
 FROM orders
 GROUP BY weekday_name
 ORDER BY order_per_weekday DESC;
+
 -- What is the busiest time in the day?
 SELECT 
 	EXTRACT(HOUR FROM time) AS hour,
@@ -28,6 +29,7 @@ FROM (
 	FROM orders
 	GROUP BY date
     ) AS no_order_date;
+
 SELECT AVG(no_order) 
 FROM (
     SELECT
