@@ -6,9 +6,9 @@ The "Hotel Booking Demand EDA & Visualization" project endeavors to shed light o
 - Data Visualization: Matplotlib, Seaborn
 - Tool: Jupyter Notebook
 
-[View my Project here](https://github.com/phuongnt00/DA-Porfolio/blob/main/Hotel%20Booking%20Demand%20EDA%20%26%20Visualization/Hotel%20Booking%20Demand%20EDA%20%26%20Visualizations.ipynb)
+[View my Project here](https://github.com/phuongnt00/Data-Analyst-Portfolio/blob/main/Hotel%20Booking%20Demand%20EDA%20%26%20Visualization/Hotel%20Booking%20Demand%20EDA%20%26%20Visualizations.ipynb)
 ## Dataset
-- Dataset file: [here](https://github.com/phuongnt00/DA-Porfolio/blob/main/Hotel%20Booking%20Demand%20EDA%20%26%20Visualization/hotel_bookings.csv)
+- Dataset file: [here](https://github.com/phuongnt00/Data-Analyst-Portfolio/blob/main/Hotel%20Booking%20Demand%20EDA%20%26%20Visualization/hotel_bookings.csv)
 - Source from [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
