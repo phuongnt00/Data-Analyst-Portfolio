@@ -1,4 +1,6 @@
 # Supermarket Sales EDA
+![image](https://github.com/phuongnt00/Data-Analyst-Portfolio/assets/134161283/a00e7681-8f59-42b8-b226-2d06d0285d84)
+
 ## Introduction
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. This project focuses on analyzing a dataset from a supermarket chain operating in multiple cities. By exploring and interpreting this dataset, I aim to extract valuable insights regarding product performance, customer behavior, branch analysis, and overall market trends. 
 ## Dataset
@@ -23,7 +25,7 @@ The dataset is one of the historical sales of supermarket company which has reco
 * Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
 ### Source: [Supermarket sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 ## Table of Contents
-View my Result [here](https://github.com/phuongnt00/DA-Porfolio/blob/d8a6a1f9b1f5160da2dca8e8533dea5fa1b6a478/Supermarket%20Sales%20EDA/Result.md)
+View my Result [here](https://github.com/phuongnt00/Data-Analyst-Portfolio/blob/main/Supermarket%20Sales%20EDA/Result.md)
 - A. Rename columns and column data types
 - B. Product Analysis
    - Which product line has the highest sales?
