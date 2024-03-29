@@ -1,4 +1,5 @@
 # Hotel Booking Demand EDA & Visualization
+![image](https://github.com/phuongnt00/Data-Analyst-Portfolio/assets/134161283/430114dd-0489-428a-b57a-beeb57ecfacc)
 ## Introduction
 The "Hotel Booking Demand EDA & Visualization" project endeavors to shed light on the patterns, trends, and insights within hotel booking data. The project is a journey through data exploration and visualization, with the ultimate goal of unraveling the intricacies of hotel booking trends. By leveraging the power of data, this project aims to equip hospitality professionals with the knowledge they need to make data-driven decisions that lead to increased guest satisfaction and business success.
 ## Libraries and Tools Used
