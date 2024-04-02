@@ -18,6 +18,18 @@ including order_details_id, order_id, pizza_id, and quantity
 - **docs**:
   - [report.pdf](https://github.com/phuongnt00/Data-Analyst-Portfolio/blob/main/Pizza%20Place%20Sales%20EDA/Pizza%20Place%20Sale%20EDA%20Report.pdf): Final report summarizing the findings and insights from the data analysis.
 
-## Tools and Technologies:
+## Project Tasks
+1. How does the number of pizza orders vary throughout the week?
+2. What is the busiest time of the day?
+3. How many orders are we expecting each day, each month?
+4. What are our best and worst-selling pizzas?
+5. Number of pizzas sold as per category
+6. Can we identify any seasonality in the sales?
+7. How much money did we make this year?
+8. What is the average order value?
+9. Type of pizzas is best seller each month
+Conclusion
+Recommendations
+## Tools and Technologies
 - SQL for data analysis and manipulation.
 - Data visualization tools: Power BI
