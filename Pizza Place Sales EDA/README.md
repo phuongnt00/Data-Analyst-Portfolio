@@ -27,8 +27,8 @@ including order_details_id, order_id, pizza_id, and quantity
 6. Can we identify any seasonality in the sales?
 7. How much money did we make this year?
 8. What is the average order value?
-9. Type of pizzas is best seller each month
-Conclusion
+9. Type of pizzas is best seller each month\
+Conclusion\
 Recommendations
 ## Tools and Technologies
 - SQL for data analysis and manipulation.
