@@ -10,6 +10,9 @@ Here's a glimpse of some of the projects you'll find in this portfolio:
 - [Netflix Movies and TV Shows Cleaning](https://github.com/phuongnt00/Data-Analyst-Portfolio/tree/main/Netflix%20Movies%20and%20TV%20Shows%20Cleaning)
   - Tool: MySQL 
   - Description: Utilized SQL queries to clean and preprocess the Netflix Movies and TV Shows dataset. Performed data cleansing, transformation, and formatting to prepare the dataset for analysis. Identified and resolved inconsistencies, missing values, and duplicates. The cleaned dataset serves as a foundation for further exploration and insights.
+- [Pizza Place Sales EDA](https://github.com/phuongnt00/Data-Analyst-Portfolio/tree/main/Pizza%20Place%20Sales%20EDA)
+  - Tool: MySQL, Power BI
+  - Description: This project aims to analyze pizza sales data from a fictitious pizza place to gain insights into customer purchasing behavior and identify opportunities for increasing sales revenue. By leveraging the power of SQL, I will extract key trends and patterns that can inform strategic business decisions.
 - [Supermarket Sales EDA](https://github.com/phuongnt00/Data-Analyst-Portfolio/tree/main/Supermarket%20Sales%20EDA)
   - Tool: SQL Server
   - Description: This project focuses on analyzing a dataset from a supermarket chain operating in multiple cities. By exploring and interpreting this dataset, I aim to extract valuable insights regarding product performance, customer behavior, branch analysis, and overall market trends.
